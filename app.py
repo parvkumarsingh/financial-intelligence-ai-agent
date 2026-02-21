@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # Title
-st.title("📊 Corporate Financial Intelligence AI Agent")
+st.title("Financial Intelligence AI Agent")
 st.subheader("AI-Powered Stock Analysis Dashboard (Consulting Style)")
 
 # User Input
