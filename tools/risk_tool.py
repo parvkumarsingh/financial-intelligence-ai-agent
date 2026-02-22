@@ -5,7 +5,7 @@ def evaluate_risk(analysis_summary):
     """
 
     volatility = analysis_summary["Volatility (%)"]
-    trend = analysis_summary["Trend Direction"]
+    trend = analysis_summary["Trend"]
 
     # Risk Classification based on volatility
     if volatility < 1:

@@ -1,4 +1,4 @@
-# 📊 Corporate Financial Intelligence AI Agent
+# 📊 Financial Intelligence AI Agent
 
 ## 🚀 Overview
 An end-to-end AI-powered financial analytics agent that performs real-time stock analysis, risk evaluation, and automated executive report generation through an interactive dashboard.
